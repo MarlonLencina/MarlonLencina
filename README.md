@@ -8,10 +8,10 @@
 
 <strong>Hey! é muito bom ter voce por aqui, nome é Marlon Lencina, tenho 17 anos e Atualmente moro em SC, Floríanopolis. Hoje trabalho com ReactJS, native e NodeJS, presente em todas áreas do desenvolvimento web.</strong>
 
-<h3>Caso queira conversar comigo, sinta-se a vontade para se comunicar por qualquer uma das minhas redes sociais, irei responder o mais rapido possivel.</h3>
+<strong>Caso queira conversar comigo, sinta-se a vontade para se comunicar por qualquer uma das minhas redes sociais, irei responder o mais rapido possivel.</strong>
 
 
-<h3>Eu também Portóflio misturado com meu Blog,  Caso queira visita-ló pode acessar por esse link.</h3>
+<strong>Eu também Portóflio misturado com meu Blog,  Caso queira visita-ló pode acessar por esse link.</strong>
 
 
 

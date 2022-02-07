@@ -6,7 +6,7 @@
 
 <h1 align="center">Hey dev! 👨‍💻</h1>
 
-<p>Hey! é muito bom ter voce por aqui, nome é Marlon Lencina, tenho 17 anos e Atualmente moro em SC, Floríanopolis. Hoje trabalho com ReactJS, native e NodeJS, presente em todas áreas do desenvolvimento web.</p>
+<p>Hey! é muito bom ter voce por aqui, nome é Marlon Lencina, Atualmente moro em SC, Floríanopolis. Hoje trabalho com ReactJS, native e NodeJS, presente em todas áreas do desenvolvimento web.</p>
 
 <p>Caso queira conversar comigo, sinta-se a vontade para se comunicar por qualquer uma das minhas redes sociais, irei responder o mais rapido possivel.</p>
 

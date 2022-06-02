@@ -1,39 +1,64 @@
-          
+<img src="https://i.imgur.com/QbEr4PG.png" />
 
-[![Header](https://raw.githubusercontent.com/MarlonLencina/MarlonLencina/main/welcometodevmarlongit.png)](https://github.com/MarlonLencina/)
-
-
-
-<h1 align="center">Hey dev! 👨‍💻</h1>
-
-<p>Hey! é muito bom ter voce por aqui, nome é Marlon Lencina, Atualmente moro em SC, Floríanopolis. Hoje trabalho com ReactJS, native e NodeJS, presente em todas áreas do desenvolvimento web.</p>
-
-<p>Caso queira conversar comigo, sinta-se a vontade para se comunicar por qualquer uma das minhas redes sociais, irei responder o mais rapido possivel.</p>
-
-
-<p>Eu também Portóflio misturado com meu Blog,  Caso queira visita-ló pode acessar por esse link.</p>
-
-
-
-<div align="center">
-<p>
-          </p>
-<a href="https://devmarlon.tech"><img height="50" margin="100" src="https://raw.githubusercontent.com/MarlonLencina/MarlonLencina/main/btndevmarlon.png">
-          <p>
-          </p>
-</div></a>
-
-
-<div align='center'>
-          <p>
-          </p>
-          <p>
-          </p>
-          <p>
-          </p>
-<a href="https://www.linkedin.com/in/devmarlonlencina/"><img height="50" src="https://raw.githubusercontent.com/MarlonLencina/MarlonLencina/main/linkedindevmarlon.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/devmarlontech"><img height="50" src="https://raw.githubusercontent.com/MarlonLencina/MarlonLencina/main/twitterdevmarlon.png"></a>&nbsp;&nbsp;
-<a href="https://github.com/MarlonLencina/"><img height="50" src="https://raw.githubusercontent.com/MarlonLencina/MarlonLencina/main/githubdevmarlon.png"></a>&nbsp;&nbsp;
+<div style="margin-top:40px; margin-bottom:40px;">
 </div>
 
+- 🦆 **Full Stack** Developer
+  
+- ⭕ I'm Currenty looking for opportunities on companys.
+  
+- 😍 You can know more about me visiting my site marlonlencina.com
+  
+- ...fun fact: (●'◡'●) **OTAKU**.
 
+<div style="margin-top:40px; margin-bottom:40px;">
+
+
+----------
+
+<div style="margin-top:40px; margin-bottom:40px;">
+
+
+## 🧑‍💻 My dear stack.
+
+<div style="margin-top:40px; margin-bottom:40px;">
+
+
+<div style="display: flex; justify-content: space-between; margin-top:20px;">
+
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
+</div>
+
+<div style="margin-top:40px; margin-bottom:40px;">
+
+
+----------
+
+<div style="margin-top:40px; margin-bottom:40px;">
+
+
+
+$$
+"Olheiras Delatam Os Sonhadores"
+$$
+
+<div style="margin-top:40px; margin-bottom:40px;">
+
+
+----------
+
+<div style="margin-top:40px;">
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarlonLencina&show_icons=true&theme=radical)
+
+</div>
